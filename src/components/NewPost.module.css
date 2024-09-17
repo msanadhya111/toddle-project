@@ -1,0 +1,20 @@
+.posts {
+    display: block;
+    margin: 10px;
+    width: 15%;
+    height: 45%;
+    border: 1px solid rgb(66, 60, 60);
+}
+
+.dots {
+    width: 10px;
+    height: 40px;
+    align-self: center;
+}
+
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    align-self: self-end;
+    padding-right: 20px;
+}
